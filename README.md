@@ -39,6 +39,8 @@ Deploy your app to a free static page hosting service, such as GitHub Pages. Sub
 ### Contibutors
 
 Amanda Hinkle
+
 Knowledge from Othmane Benyouncef
+
 Stack Overflow Knowledge Base
 
